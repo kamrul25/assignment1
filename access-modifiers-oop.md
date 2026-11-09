@@ -1,10 +1,10 @@
 # Access Modifiers in TypeScript OOP
 
 #### There are four type of access modifiers in TypeScript OOP:
-    1. *public*: Members are accessible from anywhere, both inside and outside the class..
-    2. *private*: Restricts access strictly to the class.
-    3. *protected*: Allowing access within the class and subclasses, provding inheritance.
-    4. *readonly*: After initialization only can read, can't any modification
+1. *public*: Members are accessible from anywhere, both inside and outside the class..
+2. *private*: Restricts access strictly to the class.
+3. *protected*: Allowing access within the class and subclasses, provding inheritance.
+4. *readonly*: After initialization only can read, can't any modification
 
 Access modifiers means to get access to modify somethings inside or outside the class properties or methods based on the specific modifier.
 
