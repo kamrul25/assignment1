@@ -14,5 +14,5 @@ The assignment covers core TypeScript fundamentals including optional parameters
 ## Blog Posts Links
 
 Read my blog post about Type Aliases vs Interface and Access Modifiers
-1. [Type Aliases vs. Interfaces](type-aliases-vs-interfaces.md)
-2. [Access Modifiers in TypeScript OOP](access-modifiers-oop.md)
+1. [Type Aliases vs. Interfaces](type-aliases-vs-interface.md)
+3. [Access Modifiers in TypeScript OOP](access-modifiers-oop.md)
