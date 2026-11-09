@@ -35,4 +35,4 @@ const car = new Car();
 console.log(car.getDetails()) // can access public modifier from any where
 ```
 #### Conclusion:
-Access modifiers are vital for encapsulation and control visibiliy of data within classes. It help us to  ensure security of code by using properly. In our code 'private' and 'protected' protects internal states, 'readonly' enforces immutability , and 'public' expose safe APIs
+Access modifiers are vital for encapsulation and control visibiliy of data within classes. It help us to  ensure security of code by using properly. In our code `private` and `protected` protects internal states, `readonly` enforces immutability , and `public` expose safe APIs
