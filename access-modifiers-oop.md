@@ -8,7 +8,7 @@
 
 Access modifiers means to get access to modify somethings inside or outside the class properties or methods based on the specific modifier.
 
-```
+```js
 class Vehicle {
   readonly brand: string;
   protected speed: number;
